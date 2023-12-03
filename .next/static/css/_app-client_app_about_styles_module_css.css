@@ -1,0 +1,29 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./app/about/styles.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+/* style.module.css */
+.styles_container__SQ8Bi {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f48e8e;
+    text-align: center; /* Align text in the center */
+  }
+  
+  .styles_container__SQ8Bi h1 {
+    margin-bottom: 16px;
+  }
+  
+  .styles_container__SQ8Bi p {
+    font-size: 1.2rem; /* Adjust font size as needed */
+    line-height: 1.5; /* Adjust line height as needed */
+    max-width: 600px; /* Set a maximum width for better readability */
+    margin-bottom: 16px; /* Adjust as needed */
+  }
+  
+  .styles_container__SQ8Bi a {
+    margin-bottom: 16px;
+  }
+  

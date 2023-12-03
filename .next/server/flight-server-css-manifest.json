@@ -1,0 +1,31 @@
+{
+  "__entry_css_mods__": {
+    "/Users/kethanmithra/Downloads/nextjs/app/page": [
+      "/Users/kethanmithra/Downloads/nextjs/app/page.module.css",
+      "/Users/kethanmithra/Downloads/nextjs/app/globals.css"
+    ],
+    "/Users/kethanmithra/Downloads/nextjs/app/users/[userId]/page": [
+      "/Users/kethanmithra/Downloads/nextjs/app/globals.css"
+    ],
+    "/Users/kethanmithra/Downloads/nextjs/app/users/page": [
+      "/Users/kethanmithra/Downloads/nextjs/app/globals.css"
+    ],
+    "/Users/kethanmithra/Downloads/nextjs/app/about/page": [
+      "/Users/kethanmithra/Downloads/nextjs/app/about/styles.module.css",
+      "/Users/kethanmithra/Downloads/nextjs/app/globals.css"
+    ]
+  },
+  "/Users/kethanmithra/Downloads/nextjs/app/page.tsx": [
+    "/Users/kethanmithra/Downloads/nextjs/app/page.module.css"
+  ],
+  "/Users/kethanmithra/Downloads/nextjs/app/layout.tsx": [
+    "/Users/kethanmithra/Downloads/nextjs/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+    "/Users/kethanmithra/Downloads/nextjs/app/globals.css"
+  ],
+  "/Users/kethanmithra/Downloads/nextjs/app/about/page.tsx": [
+    "/Users/kethanmithra/Downloads/nextjs/app/about/styles.module.css"
+  ],
+  "/Users/kethanmithra/Downloads/nextjs/app/about/layout.tsx": [
+    "/Users/kethanmithra/Downloads/nextjs/app/about/styles.module.css"
+  ]
+}
